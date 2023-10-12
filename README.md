@@ -1,0 +1,2 @@
+Chatbot with Watson - Empowering Conversational Assistance with IBM Cloud Watson Assistant:
+In the ever-evolving landscape of digital communication, chatbots have emerged as invaluable tools for providing instant assistance and fostering meaningful connections. This project endeavors to harness the power of IBM Cloud Watson Assistant to create a dynamic and helpful virtual guide that transcends the boundaries of messaging platforms like Facebook Messenger and Slack.
